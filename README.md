@@ -16,7 +16,7 @@ San Francisco, CA 94107
 * Recommended team size: 2-5
 
 ## Review the APIs
-Go to github.com/realworldreact/reactathon/hackathon/apis.md  
+Go to github.com/realworldreact/reactathon/apis.md  
 Here you'll find lists of APIs with links to docs, tutorials, and a video overview
 
 ## Join the Reactathon Slack Group
@@ -31,16 +31,16 @@ Sign up here https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0
 
 ## Team Formation
 #### If you have a team
-1. List your team at github.com/realworldreact/reactathon/hackathon/teams.md
+1. List your team at github.com/realworldreact/reactathon/teams.md
 2. Fork the repo and make a PR to list your team
 3. Follow the style guide for listing your team
 
 #### If you don't have a team
-1. Browse teams at github.com/realworldreact/reactathon/hackathon/teams.md
+1. Browse teams at github.com/realworldreact/reactathon/teams.md
 2. Contact team members via Slack or in-person on Saturday morning
 
 ## Schedule
-Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the slack channel `announcements`.
+Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the slack channel `announcements`.  
 **Saturday, March 11**  
 9:00 - Doors open  
 9:00 - 10:00 - Check-in, coffee, mingle & form teams  
