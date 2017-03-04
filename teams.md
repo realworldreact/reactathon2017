@@ -14,6 +14,6 @@ STYLE GUIDE:
 ### We're a team that exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the bottom of the list!
 * **Teammates**: Benjamin Dunphy (@ben), Berkeley Martinez (@berkeley)
 * **Seeking Teammates**: No
-* [Project URL](https://github.com/your-profile/your-project-name)
+* [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
