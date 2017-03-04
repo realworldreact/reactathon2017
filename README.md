@@ -6,7 +6,7 @@ Please read this in its entirety, including the other files. It includes specifi
 By attending the hackathon, you affirm that you have read and agree to our Code of Conduct, and you will abide by its guidelines laid out here: http://jsconf.com/codeofconduct.html
 
 ## Purpose
-The Hackathon is designed to be a fun, casual, and educational environment. There will also be competition for prizes, but our main goal is education and building community. We will have tutors and volunteers to assist with your questions if you need help.  
+The Hackathon is designed to be a fun, casual, and educational environment. There will also be competition for prizes, but our main goal is education, building community, and learning to use some cool APIs and technologies. We will have tutors and volunteers to assist with your questions if you need help.  
 Thanks to OpenTable for their sponsorship, we will provide you with lunch on Saturday, and lunch + dinner on Sunday. GitHub will be providing us with beer and wine on Sunday evening.
 
 ## Location
