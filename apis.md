@@ -5,7 +5,7 @@ Listed here are the APIs for your use.
 * Communicate with the API sponsors via their [dedicated slack channel](https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0ODg2NDYyMjMtN2FmZDRiYWE5Yw)
 
 # OpenTable
-## Quick Description
+#### Quick Description
 
 ### Purpose
 API Purpose goes Here
@@ -26,7 +26,7 @@ List prizes here
 
 
 # Netlify
-## Quick Description
+#### Quick Description
 
 ### Purpose
 API Purpose goes Here
@@ -47,7 +47,7 @@ List prizes here
 
 
 # Serverless
-## Quick Description
+#### Quick Description
 
 ### Purpose
 API Purpose goes Here
