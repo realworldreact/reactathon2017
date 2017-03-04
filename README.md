@@ -1,5 +1,7 @@
+![Reactathon Logo Header](http://i.imgur.com/4SWixbw.png)
+
 # Hackathon Rules & Guidelines
-Please read this in its entirety. It includes specific instructions to get set up.
+Please read this in its entirety, including the other files. It includes specific instructions to get set up.
 ## Code of Conduct
 By attending the hackathon, you affirm that you have read and agree to our Code of Conduct, and you will abide by its guidelines laid out here: http://jsconf.com/codeofconduct.html
 

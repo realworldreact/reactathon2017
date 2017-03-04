@@ -12,7 +12,7 @@ Here are some tools and resources to help you get started:
 ## Boilerplates
 Boilerplates are great to get started, and to learn how someone uses certain tech and architects in a specific way. However, since you didn't make these choices on your own, you lose the education of _why_ someone chose to build their app in this manner, and it may actually slow you down or frustrate you in the long run.  
 **TLDR:** Boilerplates are great for hackathons, bad for production. Use with caution.
-### [Create-React-App](https://github.com/facebookincubator/create-react-app)
+### 1. [Create-React-App](https://github.com/facebookincubator/create-react-app)
 This is the official boilerplate created by members of the React Core Team at Facebook  with the help of open-source contributors. It is the easiest of all boilerplates, as it hides most of the configuration files to narrow your focus. You can get started in the CLI with:  
 ```
 npm install -g create-react-app
@@ -22,6 +22,6 @@ npm start
 ```
 Create-React-App helps you to create a React project without worrying too much about configuration. To customize your boilerplate, you can "eject". Learn more about this and other features of create-react-app here https://github.com/facebookincubator/create-react-app  
 
-### [React Static Boilerplate](https://github.com/iansinnott/react-static-boilerplate)
+### 2. [React Static Boilerplate](https://github.com/iansinnott/react-static-boilerplate)
 We recommend this boilerplate, or something similar, especially if you're looking to use the APIs **Serverless** and **Netlify**.  
 As with any boilerplate, it is opinionated. Fortunately the docs have descriptions and benefits of each of these choices, and you can easily change them, if you know what you're doing. If you're not comfortable with ES6, configuring webpack, architecting a React app, or controlling state with Redux, we recommend that you sign up for one of our [workshops](https://realworldreact.eventbrite.com).
