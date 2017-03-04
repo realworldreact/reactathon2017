@@ -65,3 +65,18 @@ Link to youtube/vimeo tutorial here (<5 mins)
 List prizes here
 
 ***
+
+# Overall Winners
+#### The top 6 teams will present to a panel of judges including representatives from Real World React, OpenTable, and Netlify.
+Note: "Overall" winners are separate from the "API winners". Each API sponsor will have their own challenges and prizes.
+
+### Prizes
+* X Box One
+* Playstation 4
+* Smart TV
+* Chrome messenger bag
+* Amazon Echo Dot
+* Google Home
+* Roost Laptop Stands
+* Chromebook
+* Tickets to React Conf
