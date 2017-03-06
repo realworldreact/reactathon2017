@@ -17,3 +17,9 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# WillCode4Food
+### We're a team that will do whatever it takes for feed us and we're building something cool.
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang)
+* **Seeking Teammates**: Absolutely yes!
+* [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
