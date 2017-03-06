@@ -19,7 +19,7 @@ STYLE GUIDE:
 ***
 
 # WillCode4Food
-### We're a team that will do whatever it takes for feed us and we're building something cool.
+### We're a team that will do whatever it takes to feed us and we're building something cool.
 * **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang)
 * **Seeking Teammates**: Absolutely yes!
 * [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
