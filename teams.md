@@ -34,3 +34,11 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/unravel-project)
 
 ***
+
+# React Bootie
+### Whatever it is, it has to live up to its name.
+* **Teammates**: Victor (@tagoro9), Andres (@amonmor), Esau (@toolotf)
+* **Seeking Teammates**: The more the merrier!
+* [GitHub URL] (https://github.com/react-bootie)
+
+***
