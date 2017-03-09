@@ -17,3 +17,9 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# Unravel Project
+### Making Angular extinct one repo at a time.
+* **Teammates**: Zak (@zakarhino), Chris (@battenfield), Zack (@zsnydr), Sevda (@@astelvida), Sammi (@sammicodekat), Romain (@Talu58)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/unravel-project)
