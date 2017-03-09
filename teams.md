@@ -37,8 +37,8 @@ STYLE GUIDE:
 
 # React Bootie
 ### Whatever it is, it has to live up to its name.
-* **Teammates**: Victor (@tagoro9), Andres (@amonmor), Esau (@toolotf)
-* **Seeking Teammates**: The more the merrier!
+* **Teammates**: Victor (@tagoro9), Andres (@amonmor), Esau (@toolotf), Carlos (@carlosmuvi)
+* **Seeking Teammates**: No
 * [GitHub URL] (https://github.com/react-bootie)
 
 ***
