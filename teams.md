@@ -21,7 +21,7 @@ STYLE GUIDE:
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
-* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou)
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari) 
 * **Seeking Teammates**: Absolutely yes!
 * [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
 
@@ -34,6 +34,8 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/unravel-project)
 
 ***
+<<<<<<< HEAD
+=======
 
 # React Bootie
 ### Whatever it is, it has to live up to its name.
@@ -42,3 +44,4 @@ STYLE GUIDE:
 * [GitHub URL] (https://github.com/react-bootie)
 
 ***
+>>>>>>> 0015e4af5b835209dd14cb0f4192ed6439ec8709
