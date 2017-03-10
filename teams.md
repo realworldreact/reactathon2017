@@ -42,3 +42,11 @@ STYLE GUIDE:
 * [GitHub URL] (https://github.com/react-bootie)
 
 ***
+
+# FOODr3k
+### Lazy!? Indecisive!? Let FOODr3k Pick a place for you to eat!
+* **Teammates**: Resdan (resdanl), Robbie (robbie.santos), Adian (legaspi21)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/rezn5447/FOODr3k)
+
+*** 
