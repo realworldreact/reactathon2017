@@ -34,3 +34,11 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/unravel-project)
 
 ***
+
+# iReact
+### Keep calm and React
+* **Teammates**: David Lopez-White (@davidlopezwhite), Vadim Dermanovskiy (@noodly), Trevor Scandalios (@scandalios)
+* **Seeking Teammates**: Yes
+* [GitHub URL](https://github.com/DavidLopezWhite/iReact)
+
+***
