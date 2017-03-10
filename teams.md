@@ -21,7 +21,7 @@ STYLE GUIDE:
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
-* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou)
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari) 
 * **Seeking Teammates**: Absolutely yes!
 * [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
 
@@ -35,6 +35,7 @@ STYLE GUIDE:
 
 ***
 
+
 # React Bootie
 ### Whatever it is, it has to live up to its name.
 * **Teammates**: Victor (@tagoro9), Andres (@amonmor), Esau (@toolotf), Carlos (@carlosmuvi)
@@ -45,8 +46,9 @@ STYLE GUIDE:
 
 # FOODr3k
 ### Lazy!? Indecisive!? Let FOODr3k Pick a place for you to eat!
-* **Teammates**: Resdan (resdanl), Robbie (robbie.santos), Adian (legaspi21)
+* **Teammates**: Resdan (@resdanl), Robbie (@robbie.santos), Adian (@legaspi21)
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/rezn5447/FOODr3k)
 
 *** 
+
