@@ -37,6 +37,7 @@ Sign up here https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0
 1. List your team in the `teams.md` file in this repo
 2. Fork the repo and make a PR to list your team
 3. Follow the style guide for listing your team
+4. Tag `BerkeleyTrue` in your PR.
 
 #### If you don't have a team
 1. Browse teams in the `teams.md` file of this repo
