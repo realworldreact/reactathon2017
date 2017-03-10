@@ -82,7 +82,7 @@ http://netlify.com/docs
 - [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
-TBD
+Chromecast or Bluetooth Speakers
 
 ***
 
