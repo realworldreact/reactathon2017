@@ -61,9 +61,9 @@ List prizes here
 Netlify is a git-centric workflow for the modern developer. Netlify provides CDN, Continuos Integration, Continuous Deployment, 1-click HTTPS, and Custom Domains.
 
 ### Purpose
-[Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that have the reach of the web, and are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
+[Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
 
-Netlify improves your workflow with Deploy Previews, they work by deploying every pull request from your git repository to a unique URL; completely different from the one your main site uses. You and your team can see how those changes look before they’re merged into the main branch and deployed to production.
+Netlify improves your workflow with Deploy Previews that work by deploying every pull request from your git repository to a unique URL; completely different from the one your main site uses. You and your team can see how those changes look before they’re merged into the main branch and deployed to production.
 
 To help you discover Deploy Previews, we put those links where it helps your team the most, directly in the pull request as commit statuses:
 
@@ -72,7 +72,7 @@ To help you discover Deploy Previews, we put those links where it helps your tea
 We keep this preview up to date as you continue to work, committing new changes to the same branch. Our CDN takes care of invalidating the cache every time for you.
 
 ### Challenge
-We are looking the most interesting apps leveraging the [JAMstack](https://jamstack.org/) and have a high [PWA](https://developers.google.com/web/tools/lighthouse/) rating on Google's [Lighthouse](https://jamstack.org/). All projects considered will need to be deployed to Netlify and with [Deploy Previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/) enabled. 
+We are looking for the most interesting apps leveraging the [JAMstack](https://jamstack.org/) and have a high [PWA](https://developers.google.com/web/tools/lighthouse/) rating on Google's [Lighthouse](https://jamstack.org/). All projects considered will need to be deployed to Netlify and with [Deploy Previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/) enabled. 
 
 ### Docs
 http://netlify.com/docs
