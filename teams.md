@@ -34,8 +34,7 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/unravel-project)
 
 ***
-<<<<<<< HEAD
-=======
+
 
 # React Bootie
 ### Whatever it is, it has to live up to its name.
@@ -44,4 +43,12 @@ STYLE GUIDE:
 * [GitHub URL] (https://github.com/react-bootie)
 
 ***
->>>>>>> 0015e4af5b835209dd14cb0f4192ed6439ec8709
+
+# FOODr3k
+### Lazy!? Indecisive!? Let FOODr3k Pick a place for you to eat!
+* **Teammates**: Resdan (@resdanl), Robbie (@robbie.santos), Adian (@legaspi21)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/rezn5447/FOODr3k)
+
+*** 
+
