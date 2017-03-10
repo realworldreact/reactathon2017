@@ -58,21 +58,31 @@ List prizes here
 
 # Netlify
 #### Quick Description
+Netlify is a git-centric workflow for the modern developer. Netlify provides CDN, Continuos Integration, [Continuous Deployment](https://www.netlify.com/docs/continuous-deployment/), [1-click HTTPS](https://www.netlify.com/docs/ssl/), and [Custom Domains](https://www.netlify.com/docs/custom-domains/).
 
 ### Purpose
-API Purpose goes Here
+[Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
+
+Netlify improves your workflow with Deploy Previews that work by deploying every pull request from your git repository to a unique URL; completely different from the one your main site uses. You and your team can see how those changes look before they’re merged into the main branch and deployed to production.
+
+To help you discover Deploy Previews, we put those links where it helps your team the most, directly in the pull request as commit statuses:
+
+![](https://cdn.netlify.com/4d4d418736774eaea776b4ab08ee07af4a0bc5a9/c6be8/img/blog/deploy-preview-success.png)
+
+We keep this preview up to date as you continue to work, committing new changes to the same branch. Our CDN takes care of invalidating the cache every time for you.
 
 ### Challenge
-Specific challenges go here
+We are looking for the most interesting apps leveraging the [JAMstack](https://jamstack.org/) and have a high [PWA](https://developers.google.com/web/tools/lighthouse/) rating on Google's [Lighthouse](https://jamstack.org/). All projects considered will need to be deployed to Netlify and with [Deploy Previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/) enabled. 
 
 ### Docs
-Docs link here
+http://netlify.com/docs
 
 ### Video tutorial
-Link to youtube/vimeo tutorial here (<5 mins)
+- [Getting Started with the UI](https://www.youtube.com/watch?v=9sfTsX03UgI&t=4s)
+- [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
-List prizes here
+Chromecast or Bluetooth Speakers
 
 ***
 
