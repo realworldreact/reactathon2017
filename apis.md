@@ -58,7 +58,7 @@ List prizes here
 
 # Netlify
 #### Quick Description
-Netlify is a git-centric workflow for the modern developer. Netlify provides CDN, Continuos Integration, Continuous Deployment, 1-click HTTPS, and Custom Domains.
+Netlify is a git-centric workflow for the modern developer. Netlify provides CDN, Continuos Integration, [Continuous Deployment](https://www.netlify.com/docs/continuous-deployment/), [1-click HTTPS](https://www.netlify.com/docs/ssl/), and [Custom Domains](https://www.netlify.com/docs/custom-domains/).
 
 ### Purpose
 [Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
@@ -78,8 +78,8 @@ We are looking for the most interesting apps leveraging the [JAMstack](https://j
 http://netlify.com/docs
 
 ### Video tutorial
-[Getting Started with the UI](https://www.youtube.com/watch?v=9sfTsX03UgI&t=4s)
-[Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
+- [Getting Started with the UI](https://www.youtube.com/watch?v=9sfTsX03UgI&t=4s)
+- [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
 TBD
