@@ -18,6 +18,14 @@ STYLE GUIDE:
 
 ***
 
+# TeamNoSleep
+### We're a team that will make something awesome.
+* **Teammates**:Blake Wills (@baw25), John Kim (@soctkoren), Hyungjoon Kim (@Nubstick27), Julian Knodt (@julianknodt)
+* **Seeking Teammates**: We're set!
+* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017) 
+
+***
+
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
