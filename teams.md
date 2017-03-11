@@ -26,6 +26,13 @@ STYLE GUIDE:
 
 ***
 
+# Raging Octopus
+### Building seamless voice integration on top of the OpenTable API.
+* **Teammates**: Andrew Lee (@alee), Cyril Yu (@cyril), Jeff Christian (@15chrjef), Sherman Chen (@shermanc), Steve Zhou (@stevezhou)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/ragingoctopus/reactathon-ot)
+
+***
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
