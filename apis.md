@@ -40,6 +40,30 @@ PP Secret / Password: aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz
 `````
 Documentation [here](https://platform.otqa.com/documentation/secure)
 
+Step 1: Get an access token:
+
+````
+curl --user cpa_5069:aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz -X POST https://oauth-pp.opentable.com/api/v2/oauth/token?grant_type=client_credentials
+````
+
+Step 2: Access the API. This example gets availability for restaurant with id - 334879
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" "https://platform.otqa.com/availability/334879?start_date_time=2017-03-29T18%3A00&party_size=2&forward_minutes=120&backward_minutes=30"
+````
+
+where TOKEN - is the value you retrieve from step 1.
+
+Few other RIDs that have availability info: 334879,
+334882,
+334885,
+334888,
+334891,
+334894,
+334897,
+334900,
+334903.
+
 ##### 2. Graph QL Endpoint(Alpha):
 
 Quickstart - [here](./opentable/graphql-quickstart.md)
