@@ -42,8 +42,11 @@ Documentation [here](https://platform.otqa.com/documentation/secure)
 
 ##### 2. Graph QL Endpoint(Alpha):
 
+Quickstart - [here](opentable/graphql-quickstart)
 https://www.opentable.com/graphiql – For the API explorer
 https://www.opentable.com/graphql – The API endpoint
+
+Getting started with 
 
 ### Video tutorial
 ##### 1. REST API:
@@ -52,7 +55,10 @@ Not available yet.
 [Youtube video link](https://www.youtube.com/watch?v=CNL_cgNsJEc)
 
 ### Prizes
-List prizes here
+(Depending on the value of the product and number of winners)
+Xbox One S 500GB Console - Battlefield 1 Bundle
+Chrome Citizen Messenger Bag Black/Red, One Size
+Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker
 
 ***
 
