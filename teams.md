@@ -37,8 +37,8 @@ STYLE GUIDE:
 
 # iReact
 ### Keep calm and React
-* **Teammates**: David Lopez-White (@davidlopezwhite), Vadim Dermanovskiy (@noodly), Trevor Scandalios (@scandalios)
-* **Seeking Teammates**: Yes
+* **Teammates**: David Lopez-White (@davidlopezwhite), Vadim Dermanovskiy (@noodly), Trevor Scandalios (@scandalios), Howard Co (@hco), Joanne Xin (@joannexin), Jun Xiang (@junxiang)
+* **Seeking Teammates**: No
 * [GitHub URL](https://github.com/DavidLopezWhite/iReact)
 
 ***
