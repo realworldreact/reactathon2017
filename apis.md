@@ -43,6 +43,7 @@ Documentation [here](https://platform.otqa.com/documentation/secure)
 ##### 2. Graph QL Endpoint(Alpha):
 
 Quickstart - [here](opentable/graphql-quickstart)
+
 https://www.opentable.com/graphiql – For the API explorer
 https://www.opentable.com/graphql – The API endpoint
 
