@@ -18,12 +18,21 @@ STYLE GUIDE:
 
 ***
 
+# TeamNoSleep
+### We're a team that will make something awesome.
+* **Teammates**:Blake Wills (@baw25), John Kim (@soctkoren), Hyungjoon Kim (@Nubstick27), Julian Knodt (@julianknodt)
+* **Seeking Teammates**: We're set!
+* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017) 
+
+***
+
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
+
 * **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari), Edmund Dao (@nimda), Eric Oliveira (@clapinton)
 * **Seeking Teammates**: Absolutely yes!
-* [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
+* [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food)
 
 ***
 
@@ -51,3 +60,20 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/rezn5447/FOODr3k)
 
 ***
+
+# OpenChair
+### We'll help you find an open chair!
+* Teammates: Kai (@kai), Chan (@ChanTheManCan), Cindy (@cindy0092), Samuel (@SamuelHe83), Forest (@), Efe (@)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/open-chair/openChair)
+
+***
+
+# nobs
+### Süding : Social Fooding, aka friend & event centric fooding.
+* Teammates: Anthony(@liuminosity), Alissa(@zeninspire)
+* Seeking Teammates: No
+* [Project URL](https://github.com/zeninspire/nobs)
+
+***
+
