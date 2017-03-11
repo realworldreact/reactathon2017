@@ -29,7 +29,8 @@ STYLE GUIDE:
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
-* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari)
+
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari), Edmund Dao (@nimda), Eric Oliveira (@clapinton)
 * **Seeking Teammates**: Absolutely yes!
 * [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food)
 
@@ -60,7 +61,6 @@ STYLE GUIDE:
 
 ***
 
-
 # OpenChair
 ### We'll help you find an open chair!
 * Teammates: Kai (@kai), Chan (@ChanTheManCan), Cindy (@cindy0092), Samuel (@SamuelHe83), Forest (@), Efe (@)
@@ -75,5 +75,5 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [Project URL](https://github.com/zeninspire/nobs)
 
-
 ***
+
