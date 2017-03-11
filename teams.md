@@ -44,6 +44,13 @@ STYLE GUIDE:
 
 ***
 
+# iReact
+### Keep calm and React
+* **Teammates**: David Lopez-White (@davidlopezwhite), Vadim Dermanovskiy (@noodly), Trevor Scandalios (@scandalios), Howard Co (@hco), Joanne Xin (@joannexin), Jun Xiang (@junxiang), Sean Chen (@chenmeister)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/DavidLopezWhite/iReact)
+
+***
 
 # React Bootie
 ### Whatever it is, it has to live up to its name.
