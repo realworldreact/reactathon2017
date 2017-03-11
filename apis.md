@@ -40,10 +40,53 @@ PP Secret / Password: aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz
 `````
 Documentation [here](https://platform.otqa.com/documentation/secure)
 
+Step 1: Get an access token:
+
+````
+curl --user cpa_5069:aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz -X POST https://oauth-pp.opentable.com/api/v2/oauth/token?grant_type=client_credentials
+````
+
+Step 2: Access the API. This example gets availability for restaurant with id - 334879
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" "https://platform.otqa.com/availability/334879?start_date_time=2017-03-29T18%3A00&party_size=2&forward_minutes=120&backward_minutes=30"
+````
+
+where TOKEN - is the value you retrieve from step 1.
+
+You can get a list of all RIDs that are availability for this user ID through this api:
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" 'https://platform.otqa.com/sync/listings'
+````
+
+Lat/long based search:
+
+````
+https://platform.otqa.com/availability?latitude=42.360082&longitude=71.058880&party_size=2&radius=200&forward_minutes=180&backward_minutes=30&start_date_time=2017-03-13T20%3A00&include_unavailable=true
+````
+
+IMPORTANT NOTE: Replace *.opentable.com with *.otqa.com
+
+
+Few other RIDs that have availability info: 334879,
+334882,
+334885,
+334888,
+334891,
+334894,
+334897,
+334900,
+334903.
+
 ##### 2. Graph QL Endpoint(Alpha):
+
+Quickstart - [here](./opentable/graphql-quickstart.md)
 
 https://www.opentable.com/graphiql – For the API explorer
 https://www.opentable.com/graphql – The API endpoint
+
+Getting started with 
 
 ### Video tutorial
 ##### 1. REST API:
@@ -52,7 +95,10 @@ Not available yet.
 [Youtube video link](https://www.youtube.com/watch?v=CNL_cgNsJEc)
 
 ### Prizes
-List prizes here
+(Depending on the value of the product and number of winners)
+Xbox One S 500GB Console - Battlefield 1 Bundle
+Chrome Citizen Messenger Bag Black/Red, One Size
+Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker
 
 ***
 
