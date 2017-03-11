@@ -57,4 +57,5 @@ STYLE GUIDE:
 * Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev)
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/arturoromeroslc/review)
+
 ***
