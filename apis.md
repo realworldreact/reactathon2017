@@ -90,20 +90,39 @@ Chromecast or Bluetooth Speakers
 # Serverless
 #### Quick Description
 
+**The Serverless Framework** – Build applications comprised of microservices that run in response to events, auto-scale for you, and only charge you when they run. This lowers the total cost of maintaining your apps, enabling you to build more logic, faster.
+
+The Framework uses new event-driven compute services, like AWS Lambda, Google CloudFunctions, and more. It's a command-line tool, providing scaffolding, workflow automation and best practices for developing and deploying your serverless architecture. It's also completely extensible via plugins.
+
+Serverless is an MIT open-source project, actively maintained by a full-time, venture-backed team.
+
 ### Purpose
-API Purpose goes Here
+
+The framework was created to help developers focus on writing their application code rather than maintaining or scaling servers.
 
 ### Challenge
-Specific challenges go here
+We are looking for the most interesting apps leveraging the [Serverless Framework](https://serverless.com/framework/docs/). 
+
+All projects considered will need to have a least one serverless function deployed via the framework!
+
+Stop by our table if you need help!
 
 ### Docs
-Docs link here
+[Docs link](https://serverless.com/framework/docs/)
 
 ### Video tutorial
-Link to youtube/vimeo tutorial here (<5 mins)
+
+[About the Serverless framework](https://www.youtube.com/watch?v=bFHmgqbAh4M)
+
+[Getting Started](https://www.youtube.com/playlist?list=PLIIjEI2fYC-C3NJF7a4-Cvh5hjdCmrVmN)
+
+[Setting up your AWS account for Serverless](https://www.youtube.com/watch?v=HSd9uYj2LJA)
+
+[Building a rest API](https://www.youtube.com/playlist?list=PLIIjEI2fYC-B0QxvWI6XnRB_ze0m0BKUj)
 
 ### Prizes
-List prizes here
+
+- Amex gift card ($700) split between the team members
 
 ***
 
