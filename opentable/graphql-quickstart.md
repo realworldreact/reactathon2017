@@ -14,11 +14,11 @@ Copy the following query into the editor and hit the execute button:
 
 You should get a JSON response which matches your query:
 
-![Simple restaurant query](opentable/simple-restaurant-query.png)
+![Simple restaurant query](./simple-restaurant-query.png)
 
 Let's extend our restaurant query to get a feel for the GraphiQL editor; try pressing Ctrl-Space after the restaurant name to see what fields are available:
 
-![GraphiQL intellisense](opentable/graphiql-intellisense.png)
+![GraphiQL intellisense](./graphiql-intellisense.png)
 
 How about getting the restaurant cuisines:
 
@@ -35,11 +35,11 @@ How about getting the restaurant cuisines:
 
 After executing the query you will see a list of cuisines for the restaurant:
 
-![Restaurant with cuisines query](opentable/restaurant-with-cuisines-query.png)
+![Restaurant with cuisines query](./restaurant-with-cuisines-query.png)
 
 GraphiQL's intellisense feature is an excellent way to discover the capabilities of a GraphQL API, but it's also worth taking a look at the Documentation Explorer by clicking on the "Docs" button in the top right corner:
 
-![GraphiQL documentation explorer](opentable/documentation-explorer.png)
+![GraphiQL documentation explorer](./documentation-explorer.png)
 
 Have a play with the API, explore the schema and see what queries you can write. If you get stuck try adapting the following complex query:
 
