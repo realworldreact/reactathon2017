@@ -52,11 +52,20 @@ STYLE GUIDE:
 
 ***
 
+
+# OpenChair
+### We'll help you find an open chair!
+* Teammates: Kai (@kai), Chan (@ChanTheManCan), Cindy (@cindy0092), Samuel (@SamuelHe83), Forest (@), Efe (@)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/open-chair/openChair)
+
+***
+
 # nobs
 ### Süding : Social Fooding, aka friend & event centric fooding.
 * Teammates: Anthony(@liuminosity), Alissa(@zeninspire)
 * Seeking Teammates: No
 * [Project URL](https://github.com/zeninspire/nobs)
 
-***
 
+***
