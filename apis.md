@@ -60,6 +60,9 @@ You can get a list of all RIDs that are availability for this user ID through th
 curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" 'https://platform.otqa.com/sync/listings'
 ````
 
+IMPORTANT NOTE: Replace *.opentable.com with *.otqa.com
+
+
 Few other RIDs that have availability info: 334879,
 334882,
 334885,
