@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-STYLE GUIDE:  
+STYLE GUIDE:
 ```
 # Team name
 ### Less than 160 Characters describing what we're building. Include external links here if desired
@@ -21,7 +21,7 @@ STYLE GUIDE:
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
-* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari) 
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari), Edmund Dao (@nimda), Eric Oliveira (@clapinton)
 * **Seeking Teammates**: Absolutely yes!
 * [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
 
@@ -50,5 +50,4 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/rezn5447/FOODr3k)
 
-*** 
-
+***
