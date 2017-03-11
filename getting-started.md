@@ -25,3 +25,6 @@ Create-React-App helps you to create a React project without worrying too much a
 ### 2. [React Static Boilerplate](https://github.com/iansinnott/react-static-boilerplate)
 We recommend this boilerplate, or something similar, especially if you're looking to use the APIs **Serverless** and **Netlify**.  
 As with any boilerplate, it is opinionated. Fortunately the docs have descriptions and benefits of each of these choices, and you can easily change them, if you know what you're doing. If you're not comfortable with ES6, configuring webpack, architecting a React app, or controlling state with Redux, we recommend that you sign up for one of our [workshops](https://realworldreact.eventbrite.com).
+
+### 3. [GraphQL Hackathon Kit](https://github.com/apollographql/react-graphql-hackathon-kit)
+If you've been itching to try out GraphQL, this kit gives you a `create-react-app` client and GraphQL server to start playing around with. The kit includes information in the READMEs about how the different components fit together, and how you can extend them to build the hackathon app of your dreams. 
