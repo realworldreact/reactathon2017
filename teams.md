@@ -52,3 +52,9 @@ STYLE GUIDE:
 
 *** 
 
+# Allergic Reaction
+### Is there a cream for this?
+* ** Teammates**: Bill Cheng (@billcheng), Chris Messer (@messerino), Kevin (@kevinferron), Jamison (@jamison.hyman)
+* Seeking Teammates: Yes
+* [GitHub URL](https://github.com/billcheng-ucla/allergic-reaction)
+
