@@ -54,6 +54,12 @@ curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN
 
 where TOKEN - is the value you retrieve from step 1.
 
+You can get a list of all RIDs that are availability for this user ID through this api:
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" 'https://platform.otqa.com/sync/listings'
+````
+
 Few other RIDs that have availability info: 334879,
 334882,
 334885,
