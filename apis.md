@@ -2,7 +2,7 @@
 Listed here are the APIs for your use.
 * Browse the APIs here. Visit docs etc.
 * Meet with the API sponsors at the hackathon, particularly on Saturday morning
-* Communicate with the API sponsors via their [dedicated slack channel](https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0ODg2NDYyMjMtN2FmZDRiYWE5Yw)
+* Communicate with the API sponsors via their [dedicated slack channel](http://bit.ly/reactathon2017-slack)
 
 
 # OpenTable
@@ -40,10 +40,53 @@ PP Secret / Password: aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz
 `````
 Documentation [here](https://platform.otqa.com/documentation/secure)
 
+Step 1: Get an access token:
+
+````
+curl --user cpa_5069:aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz -X POST https://oauth-pp.opentable.com/api/v2/oauth/token?grant_type=client_credentials
+````
+
+Step 2: Access the API. This example gets availability for restaurant with id - 334879
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" "https://platform.otqa.com/availability/334879?start_date_time=2017-03-29T18%3A00&party_size=2&forward_minutes=120&backward_minutes=30"
+````
+
+where TOKEN - is the value you retrieve from step 1.
+
+You can get a list of all RIDs that are availability for this user ID through this api:
+
+````
+curl -i -X GET -H "Content-Type:application/json" -H "Authorization:bearer TOKEN" 'https://platform.otqa.com/sync/listings'
+````
+
+Lat/long based search:
+
+````
+https://platform.otqa.com/availability?latitude=42.360082&longitude=71.058880&party_size=2&radius=200&forward_minutes=180&backward_minutes=30&start_date_time=2017-03-13T20%3A00&include_unavailable=true
+````
+
+IMPORTANT NOTE: Replace *.opentable.com with *.otqa.com
+
+
+Few other RIDs that have availability info: 334879,
+334882,
+334885,
+334888,
+334891,
+334894,
+334897,
+334900,
+334903.
+
 ##### 2. Graph QL Endpoint(Alpha):
+
+Quickstart - [here](./opentable/graphql-quickstart.md)
 
 https://www.opentable.com/graphiql – For the API explorer
 https://www.opentable.com/graphql – The API endpoint
+
+Getting started with 
 
 ### Video tutorial
 ##### 1. REST API:
@@ -52,27 +95,40 @@ Not available yet.
 [Youtube video link](https://www.youtube.com/watch?v=CNL_cgNsJEc)
 
 ### Prizes
-List prizes here
+(Depending on the value of the product and number of winners)
+Xbox One S 500GB Console - Battlefield 1 Bundle
+Chrome Citizen Messenger Bag Black/Red, One Size
+Amazon Tap - Alexa-Enabled Portable Bluetooth Speaker
 
 ***
 
 # Netlify
 #### Quick Description
+Netlify provides [Continuous Delivery](https://www.netlify.com/docs/continuous-deployment), 1-click HTTPS, [Custom Domains](https://www.netlify.com/docs/custom-domains/), integrated prerendering, and a custom global CDN.
 
 ### Purpose
-API Purpose goes Here
+[Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
+
+Netlify improves your workflow with Deploy Previews that work by deploying every pull request from your git repository to a unique URL; completely different from the one your main site uses. You and your team can see how those changes look before they’re merged into the main branch and deployed to production.
+
+To help you discover Deploy Previews, we put those links where it helps your team the most, directly in the pull request as commit statuses:
+
+![](https://cdn.netlify.com/4d4d418736774eaea776b4ab08ee07af4a0bc5a9/c6be8/img/blog/deploy-preview-success.png)
+
+We keep this preview up to date as you continue to work, committing new changes to the same branch. Our CDN takes care of invalidating the cache every time for you.
 
 ### Challenge
-Specific challenges go here
+We are looking for the most interesting apps leveraging the [JAMstack](https://jamstack.org/) and have a high [PWA](https://developers.google.com/web/tools/lighthouse/) rating on Google's [Lighthouse](https://jamstack.org/). All projects considered will need to be deployed to Netlify and with [Deploy Previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/) enabled. 
 
 ### Docs
-Docs link here
+http://netlify.com/docs
 
 ### Video tutorial
-Link to youtube/vimeo tutorial here (<5 mins)
+- [Getting Started with the UI](https://www.youtube.com/watch?v=9sfTsX03UgI&t=4s)
+- [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
-List prizes here
+Chromecast or Bluetooth Speakers
 
 ***
 
@@ -80,20 +136,39 @@ List prizes here
 # Serverless
 #### Quick Description
 
+**The Serverless Framework** – Build applications comprised of microservices that run in response to events, auto-scale for you, and only charge you when they run. This lowers the total cost of maintaining your apps, enabling you to build more logic, faster.
+
+The Framework uses new event-driven compute services, like AWS Lambda, Google CloudFunctions, and more. It's a command-line tool, providing scaffolding, workflow automation and best practices for developing and deploying your serverless architecture. It's also completely extensible via plugins.
+
+Serverless is an MIT open-source project, actively maintained by a full-time, venture-backed team.
+
 ### Purpose
-API Purpose goes Here
+
+The framework was created to help developers focus on writing their application code rather than maintaining or scaling servers.
 
 ### Challenge
-Specific challenges go here
+We are looking for the most interesting apps leveraging the [Serverless Framework](https://serverless.com/framework/docs/). 
+
+All projects considered will need to have a least one serverless function deployed via the framework!
+
+Stop by our table if you need help!
 
 ### Docs
-Docs link here
+[Docs link](https://serverless.com/framework/docs/)
 
 ### Video tutorial
-Link to youtube/vimeo tutorial here (<5 mins)
+
+[About the Serverless framework](https://www.youtube.com/watch?v=bFHmgqbAh4M)
+
+[Getting Started](https://www.youtube.com/playlist?list=PLIIjEI2fYC-C3NJF7a4-Cvh5hjdCmrVmN)
+
+[Setting up your AWS account for Serverless](https://www.youtube.com/watch?v=HSd9uYj2LJA)
+
+[Building a rest API](https://www.youtube.com/playlist?list=PLIIjEI2fYC-B0QxvWI6XnRB_ze0m0BKUj)
 
 ### Prizes
-List prizes here
+
+- Amex gift card ($700) split between the team members
 
 ***
 
