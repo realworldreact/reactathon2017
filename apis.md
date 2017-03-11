@@ -58,7 +58,7 @@ List prizes here
 
 # Netlify
 #### Quick Description
-Netlify is a git-centric workflow for the modern developer. Netlify provides CDN, Continuos Integration, [Continuous Deployment](https://www.netlify.com/docs/continuous-deployment/), [1-click HTTPS](https://www.netlify.com/docs/ssl/), and [Custom Domains](https://www.netlify.com/docs/custom-domains/).
+Netlify provides [Continuous Delivery](https://www.netlify.com/docs/continuous-deployment), 1-click HTTPS, [Custom Domains](https://www.netlify.com/docs/custom-domains/), integrated prerendering, and a custom global CDN.
 
 ### Purpose
 [Progressive Web Apps](https://developers.google.com/web/tools/lighthouse/) are user experiences that are fast, secure, and engaging. Netlify helps you get there with our asset optimization and free SSL integration. 
