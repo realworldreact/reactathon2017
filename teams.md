@@ -91,3 +91,11 @@ STYLE GUIDE:
 * [Project URL](https://github.com/arturoromeroslc/review)
 
 ***
+
+# Al Dente
+### SocialTable - Let's get together
+* Teammates: Teo Antonac (@simple), Ales Fakin (@faqini)
+* Seeking Teammates: No
+* [Project URL](https://github.com/TeoA/rwr-hackathon)
+
+***
