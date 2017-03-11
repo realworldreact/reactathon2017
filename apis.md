@@ -128,7 +128,7 @@ http://netlify.com/docs
 - [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
-Chromecast or Bluetooth Speakers
+$300 + Chromecast & Color-Changing Bluetooth Speakers
 
 ***
 
