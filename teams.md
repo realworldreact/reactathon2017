@@ -135,3 +135,13 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+***
+
+# Simplify
+### A way to simplify your food wishes during a vacation
+* **Teammates**: Yaswanth jeganathan (@yaswanth360), Pradeep Keshary (@pkeshary),John (@johnjohn),ash (@ashcon),robert (@growthmindset)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/puntubabu/reacathon-2017)
+
+***
