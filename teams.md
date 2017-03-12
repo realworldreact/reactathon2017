@@ -135,3 +135,12 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+***
+
+# Addon 
+### Working on it. 
+* **Teammates**: Ariana (@ari_rodriguez), Lorraine (@lchan912), Diana (@diana), Diego (@diegocaceres), Joseph (@joe_stowers)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/Reactathon2017)
+
