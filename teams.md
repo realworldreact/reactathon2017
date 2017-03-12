@@ -22,7 +22,7 @@ STYLE GUIDE:
 ### We're a team that will make something awesome.
 * **Teammates**:Blake Wills (@baw25), John Kim (@soctkoren), Hyungjoon Kim (@Nubstick27), Julian Knodt (@julianknodt)
 * **Seeking Teammates**: We're set!
-* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017) 
+* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017)
 
 ***
 
@@ -135,3 +135,10 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+***
+
+# Ronin Dev
+### We are creating an app to make messaging even more personal and organic.
+* **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/FunkyGeorge/reactathonserver)
