@@ -244,3 +244,14 @@ STYLE GUIDE:
 * [Github URL](https://github.com/AInvest)
 
 ***
+
+***
+
+#Goldmine
+### Scraping the world's data one company at a time.
+* **Teammates**: Michael Chen(@MikeTYChen), Tom Chen (@senluchen2015), Stephen Chan (@s-chan)
+* **Seeking Teammates**: No
+* [Github URL) (https://github.com/senluchen2015/goldmine
+
+***
+
