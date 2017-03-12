@@ -136,6 +136,8 @@ STYLE GUIDE:
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
 
+***
+
 # AInvest
 ### A socially conscious investment platform powered by AI. 
 * **Teammates**: Jie Wei (@jie), Conor Carey (@ccarey), Ryan Luginbuhl (@rdlreact), Elina Lin (@elina), Gregory Barcza (@greg), Jonathan Schwob (@jonathanschwob)
