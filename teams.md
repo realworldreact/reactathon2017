@@ -121,3 +121,9 @@ STYLE GUIDE:
 * [Github URL](https://github.com/nodatall/packChat)
 
 ***
+
+# Deploy React App
+### Create and deploy a boilerplate React app with continuous deployment setup in less than a minute!
+* **Teammates**: Sam Samskies (@samsamskies)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/SamSamskies/deploy-react-app)
