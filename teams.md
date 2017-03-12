@@ -237,3 +237,10 @@ STYLE GUIDE:
 
 ***
 
+# AInvest
+### A socially conscious investment platform powered by AI. 
+* **Teammates**: Jie Wei (@jie), Conor Carey (@ccarey), Ryan Luginbuhl (@rdlreact), Elina Lin (@elina), Gregory Barcza (@greg), Jonathan Schwob (@jonathanschwob)
+* **Seeking Teammates**: No
+* [Github URL](https://github.com/AInvest)
+
+***
