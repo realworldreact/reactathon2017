@@ -52,3 +52,12 @@ STYLE GUIDE:
 
 *** 
 
+# ChatBite
+### A service which provides restaurants to easily create a Facebook Messenger chatbot for their Facebook Page and allows customers to book reservations through the chatbot using OpenTable API.
+* **Teammates**: Jacopo (@JacopoDaeli), Sue (@suemeetsue), Grant (@grant), Cam (@camdenb)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/JacopoDaeli/chatbite)
+* [Web URL](https://chatbite.heroku.com)
+
+*** 
+
