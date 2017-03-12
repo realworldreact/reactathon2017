@@ -160,8 +160,10 @@ STYLE GUIDE:
 
 ***
 
-# Addon
-### Working on it.
+
+# Bill Splitters 
+### Two clicks, pay, and on your way!! 
+
 * **Teammates**: Ariana (@ari_rodriguez), Lorraine (@lchan912), Diana (@diana), Diego (@diegocaceres), Joseph (@joe_stowers)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/Reactathon2017)
