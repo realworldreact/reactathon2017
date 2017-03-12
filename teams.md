@@ -214,7 +214,7 @@ STYLE GUIDE:
 ***
 
 # TripTunes
-### Less than 160 Characters describing what we're building. Include external links here if desired
+### TripTunes uses your roadtrip to build a Spotify playlist of songs that mention cities along your route
 * Teammates: Jahlela Hasle (@jahlela), Alex Rattray (@rattrayalex), Razzi Abuissa (@razzi), John Rossberg (@rossi)
 * Seeking Teammates: No
 * [Project URL](https://github.com/jahlela/triptunes)
