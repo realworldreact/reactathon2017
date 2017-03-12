@@ -130,11 +130,21 @@ STYLE GUIDE:
 
 ***
 
+# Blind Table
+### For the adventurous and hungry, find interesting people to try new food.
+* **Teammates**: Daniel Chang (@DanielLChang), David Hu (@davidhu2000), Edwin La (@laed37), Elif Sezgin (@elifsezgin), Raymond Lee (@rlee0525)
+* **Seeking Teammates**: No
+* [Frontend GitHub URL](https://github.com/davidhu2000/BlindTable_FE)
+* [Backend GitHub URL](https://github.com/davidhu2000/BlindTable_BE)
+
+***
+
 # USafe?
 ### Do you live alone? Or do you often say "Text me when you are home"? Then USafe? is for you.
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
 ***
 
 # Ronin Dev
@@ -142,3 +152,29 @@ STYLE GUIDE:
 * **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/FunkyGeorge/reactathonserver)
+
+***
+
+# NannyNow
+### Connecting caregivers to babies. 
+* **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/starbucks-hackers/assist-now)
+
+***
+
+# Meow Technologies
+### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
+* **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/rg-galieva/yumyum)
+
+***
+
+# Team GHKA
+### Dynamic discounts for restaurants depending on occupancy.
+* **Teammates**: Geoff (@geoff), Hilary (@hilz), Karine (@trekare), Abdul (@afr114), Theo (@tdr)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/afr114/reactathon2017)
+
+***
