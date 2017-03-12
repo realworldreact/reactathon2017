@@ -122,7 +122,7 @@ STYLE GUIDE:
 
 ***
 
-# Deploy React Appfdf
+# Deploy React App
 ### Create and deploy a boilerplate React app with continuous deployment setup in less than a minute!
 * **Teammates**: Sam Samskies (@samsamskies)
 * **Seeking Teammates**: No
