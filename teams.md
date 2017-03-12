@@ -22,7 +22,7 @@ STYLE GUIDE:
 ### We're a team that will make something awesome.
 * **Teammates**:Blake Wills (@baw25), John Kim (@soctkoren), Hyungjoon Kim (@Nubstick27), Julian Knodt (@julianknodt)
 * **Seeking Teammates**: We're set!
-* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017) 
+* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017)
 
 ***
 
@@ -127,6 +127,15 @@ STYLE GUIDE:
 * **Teammates**: Sam Samskies (@samsamskies)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/SamSamskies/deploy-react-app)
+
+***
+
+# Blind Table
+### For the adventurous and hungry, find interesting people to try new food.
+* **Teammates**: Daniel Chang (@DanielLChang), David Hu (@davidhu2000), Edwin La (@laed37), Elif Sezgin (@elifsezgin), Raymond Lee (@rlee0525)
+* **Seeking Teammates**: No
+* [Frontend GitHub URL](https://github.com/davidhu2000/BlindTable_FE)
+* [Backend GitHub URL](https://github.com/davidhu2000/BlindTable_BE)
 
 ***
 
