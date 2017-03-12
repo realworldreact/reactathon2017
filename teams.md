@@ -147,6 +147,12 @@ STYLE GUIDE:
 
 ***
 
+# fitness App!
+### logs user's fitness stats ie distance, calories etc and the same for their friends so people can be competative.
+* **Teammates**: Jawad Bangash (@Jawadban)
+
+***
+
 # Simplify
 ### A way to simplify your food wishes during a vacation
 * **Teammates**: Yaswanth jeganathan (@yaswanth360), Pradeep Keshary (@pkeshary),John (@johnjohn),ash (@ashcon),robert (@growthmindset)
