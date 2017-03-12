@@ -212,3 +212,11 @@ STYLE GUIDE:
 * [Project URL](https://github.com/louisrowan/ReactathonClient)
 
 ***
+
+# TripTunes
+### Less than 160 Characters describing what we're building. Include external links here if desired
+* Teammates: Jahlela Hasle (@jahlela), Alex Rattray (@rattrayalex), Razzi Abuissa (@razzi), John Rossberg (@rossi)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jahlela/triptunes)
+
+*** 
