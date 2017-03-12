@@ -124,6 +124,14 @@ STYLE GUIDE:
 
 ***
 
+# Breathee
+### Productivity is meant to be inhaled
+* **Teammates**: Anh (@anh), Bonav (@bonav), Caleb (@caleb), Kevin (@kevin), Shivaji (@shivaji)
+* **Seeking Teammates**: Only if you're awesome
+* [GitHub URL](https://github.com/bonaventureduprat/reactathon)
+
+***
+
 # Blind Table
 ### For the adventurous and hungry, find interesting people to try new food.
 * **Teammates**: Daniel Chang (@DanielLChang), David Hu (@davidhu2000), Edwin La (@laed37), Elif Sezgin (@elifsezgin), Raymond Lee (@rlee0525)
@@ -236,7 +244,6 @@ STYLE GUIDE:
 
 ***
 
-
 # FCC-SF
 ### An easy way for groups to book reservations through OpenTable.
 
@@ -245,3 +252,4 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/sfcodecamp/reserve.io)
 
 ***
+
