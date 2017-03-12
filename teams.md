@@ -221,6 +221,14 @@ STYLE GUIDE:
 
 ***
 
+# TripTunes
+### TripTunes uses your roadtrip to build a Spotify playlist of songs that mention cities along your route
+* Teammates: Jahlela Hasle (@jahlela), Alex Rattray (@rattrayalex), Razzi Abuissa (@razzi), John Rossberg (@rossi)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jahlela/triptunes)
+
+*** 
+
 # MASV (Massive)
 ### SurpriseAssist - your assistant to make surprise reservations!
 * **Teammates**: Mike(@mrap), Anuar(@anuar), Smitha(@smitha92), Vasu(@accessvasu)
@@ -228,3 +236,4 @@ STYLE GUIDE:
 * [Project URL](https://github.com/Reactathon2017-Masv)
 
 ***
+
