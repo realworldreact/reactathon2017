@@ -257,6 +257,14 @@ STYLE GUIDE:
 
 ***
 
+# corner-team
+### Rotten tomatoes for openTable (we are the hardmen of software!!!). 
+* **Teammates**: Captain Andy (@captainAndy001), Jawad Bangash (@jawadban), Ibraheem Abdul-Malik (@ibraheem4) , Naveen (@naveenshankar)
+* **Seeking Teammates**: PLEASE!!!!
+* [Github URL](https://github.com/caseysiebel/corner-team)
+
+***
+
 #Goldmine
 ### Scraping the world's data one company at a time.
 * **Teammates**: Michael Chen(@MikeTYChen), Tom Chen (@senluchen2015), Stephen Chan (@s-chan)
