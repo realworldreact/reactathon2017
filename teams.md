@@ -1,5 +1,7 @@
 # Hackathon Teams
 
+### Create a PR and tag `@BerkeleyTrue` in the comments of that PR.
+
 STYLE GUIDE:  
 ```
 # Team name
