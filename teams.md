@@ -150,6 +150,14 @@ STYLE GUIDE:
 
 ***
 
+# Addon 
+### Working on it. 
+* **Teammates**: Ariana (@ari_rodriguez), Lorraine (@lchan912), Diana (@diana), Diego (@diegocaceres), Joseph (@joe_stowers)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/Reactathon2017)
+
+***
+
 # fitness App!
 ### logs user's fitness stats ie distance, calories etc and the same for their friends so people can be competative.
 * **Teammates**: Jawad Bangash (@Jawadban)
