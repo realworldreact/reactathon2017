@@ -2,7 +2,7 @@
 
 ### Create a PR and tag `@BerkeleyTrue` in the comments of that PR.
 
-STYLE GUIDE:
+STYLE GUIDE:  
 ```
 # Team name
 ### Less than 160 Characters describing what we're building. Include external links here if desired
@@ -12,6 +12,8 @@ STYLE GUIDE:
 
 *** (be sure to include these three stars at the bottom for a horizontal rule)
 ```
+***
+
 # The Style Guide Exemplifiers
 ### We're a team that exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the bottom of the list!
 * **Teammates**: Benjamin Dunphy (@ben), Berkeley Martinez (@berkeley)
@@ -133,6 +135,14 @@ STYLE GUIDE:
 
 ***
 
+# Breathee
+### Productivity is meant to be inhaled
+* **Teammates**: Anh (@anh), Bonav (@bonav), Caleb (@caleb), Kevin (@kevin), Shivaji (@shivaji)
+* **Seeking Teammates**: Only if you're awesome
+* [GitHub URL](https://github.com/bonaventureduprat/reactathon)
+
+***
+
 # Blind Table
 ### For the adventurous and hungry, find interesting people to try new food.
 * **Teammates**: Daniel Chang (@DanielLChang), David Hu (@davidhu2000), Edwin La (@laed37), Elif Sezgin (@elifsezgin), Raymond Lee (@rlee0525)
@@ -150,8 +160,9 @@ STYLE GUIDE:
 
 ***
 
-# Addon 
-### Working on it. 
+# Bill Splitters 
+### Two clicks, pay, and on your way!! 
+
 * **Teammates**: Ariana (@ari_rodriguez), Lorraine (@lchan912), Diana (@diana), Diego (@diegocaceres), Joseph (@joe_stowers)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/Reactathon2017)
@@ -179,7 +190,7 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/JacopoDaeli/chatbite)
 * [Web URL](https://chatbite.herokuapp.com)
 
-*** 
+***
 
 # Ronin Dev
 ### We are creating an app to make messaging even more personal and organic.
@@ -190,15 +201,16 @@ STYLE GUIDE:
 ***
 
 # NannyNow
-### Connecting caregivers to babies. 
+### Connecting caregivers to babies.
 * **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/starbucks-hackers/assist-now)
 
 ***
 
+
 # Meow Technologies
-### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
+### Never eat lunch alone.  With OpenSeat, meeting up for lunch has never been easier.
 * **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/rg-galieva/yumyum)
@@ -227,7 +239,7 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [Project URL](https://github.com/jahlela/triptunes)
 
-*** 
+***
 
 # MASV (Massive)
 ### SurpriseAssist - your assistant to make surprise reservations!
@@ -243,12 +255,29 @@ STYLE GUIDE:
 * **Seeking Teammates**: No
 * [Github URL](https://github.com/AInvest)
 
+***
+
 # corner-team
 ### Rotten tomatoes for openTable (we are the hardmen of software!!!). 
 * **Teammates**: Captain Andy (@captainAndy001), Jawad Bangash (@jawadban), Ibraheem Abdul-Malik (@ibraheem4) , Naveen (@naveenshankar)
 * **Seeking Teammates**: PLEASE!!!!
 * [Github URL](https://github.com/caseysiebel/corner-team)
 
+***
 
+#Goldmine
+### Scraping the world's data one company at a time.
+* **Teammates**: Michael Chen(@MikeTYChen), Tom Chen (@senluchen2015), Stephen Chan (@s-chan)
+* **Seeking Teammates**: No
+* [Github URL) (https://github.com/senluchen2015/goldmine
+
+***
+
+# FCC-SF
+### An easy way for groups to book reservations through OpenTable.
+
+* **Teammates**: Kenzo Mendoza(@kenzom), Sean Smith, Noel Gonzalez, Vien Tang, Tiffany Lam(@tymeart)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/sfcodecamp/reserve.io)
 
 ***
