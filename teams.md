@@ -147,6 +147,14 @@ STYLE GUIDE:
 
 ***
 
+# NannyNow
+### Connecting caregivers to babies. 
+* **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/starbucks-hackers/assist-now)
+
+***
+
 # Meow Technologies
 ### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
 * **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
@@ -162,3 +170,4 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/afr114/reactathon2017)
 
 ***
+
