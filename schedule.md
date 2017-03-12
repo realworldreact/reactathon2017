@@ -1,4 +1,7 @@
 # Schedule
+
+### Update: Day 2 has been revised. See judging-protocol.md for more info
+
 Note: This schedule is a guideline. Actual times may vary. Watch for announcements in the slack channel `announcements`.  
 ## Saturday, March 11
 9:00 - Doors open  
@@ -18,7 +21,7 @@ Note: This schedule is a guideline. Actual times may vary. Watch for announcemen
 10:45 - 12:30 - Hacking  
 12:30 - Lunch  
 1:00 - 6:30 - Hacking  
-3:00 - 4:30 - Judges meet each team at their work station, hear pitches (3 minutes)  
+3:00 - 4:30 - ~~Judges meet each team at their work station, hear pitches (3 minutes)~~  
 4:30 - 5:30 - Judges decide top 6 teams, no order  
 5:30 - 6:30 - Judges interview top 6 teams for video  
 6:30 - Dinner  
