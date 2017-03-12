@@ -135,3 +135,9 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+# NannyNow
+### Connecting caregivers to babies. 
+* **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/starbucks-hackers/assist-now)
