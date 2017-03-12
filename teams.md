@@ -148,7 +148,7 @@ STYLE GUIDE:
 ***
 
 # Meow Technologies
-### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
+### Never eat lunch alone.  With OpenSeat, meeting up for lunch has never been easier.
 * **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/rg-galieva/yumyum)
