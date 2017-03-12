@@ -70,3 +70,29 @@ Feel free to stick around and mingle for an hour or so
 # A note on time
 
 Once we get into the swing of things, actual times such as the API Awards and Presentations may vary. Please note that time for your **Qualifying Pitch** will **not** vary.
+
+# Top 3 Presentations: Presentation Guideline
+This is a guideline only, feel free to deviate as you wish 
+
+### The Setup (1 Min)
+Introduce:
+* Yourself
+* The Problem
+* The Solution
+
+### The Demo (4.5 min)
+#### Your Product
+* Why it solves the problem
+* How it solves the problem
+* Show off your product
+* How you're using specific API's or services
+
+### The Tech (1 minute)
+* What technologies did you use to build this?
+* What challenges did you face while building this?
+* How did you overcome those challenges?
+
+## The Sign-off
+* Briefly: The problem
+* Briefly: Why your product solves it
+* Who you are and contact info, if desired
