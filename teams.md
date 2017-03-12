@@ -100,7 +100,7 @@ STYLE GUIDE:
 
 # reView
 ### The Digital Platform to Support and Coach Software Engineers in the interview process
-* Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev) chris bassano(@christo4b) Claudiu Andrei(@claudiuandrei) David Papp (@davidpapp)
+* Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev) chris bassano(@chrisbassano) Claudiu Andrei(@claudiuandrei) David Papp (@davidpapp)
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/arturoromeroslc/review)
 
@@ -130,8 +130,10 @@ STYLE GUIDE:
 
 ***
 
-# USafe?
-### Do you live alone? Or do you often say "Text me when you are home"? Then USafe? is for you.
-* **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
-* **Seeking Teammates**: Yes
-* [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+# Breathee
+### Productivity is meant to be inhaled
+* **Teammates**: Anh (@anh), Bonav (@bonav), Caleb (@caleb), Kevin (@kevin), Shivaji (@shivaji)
+* **Seeking Teammates**: Only if you're awesome
+* [GitHub URL](https://github.com/bonaventureduprat/reactathon)
+
+***
