@@ -147,6 +147,16 @@ STYLE GUIDE:
 
 ***
 
+
+# ChatBite
+### A service which provides restaurants to easily create a Facebook Messenger chatbot for their Facebook Page and allows customers to book reservations through the chatbot using OpenTable API.
+* **Teammates**: Jacopo (@JacopoDaeli), Sue (@suemeetsue), Grant (@grant), Cam (@camdenb)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/JacopoDaeli/chatbite)
+* [Web URL](https://chatbite.herokuapp.com)
+
+*** 
+
 # Ronin Dev
 ### We are creating an app to make messaging even more personal and organic.
 * **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
