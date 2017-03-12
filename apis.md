@@ -2,7 +2,7 @@
 Listed here are the APIs for your use.
 * Browse the APIs here. Visit docs etc.
 * Meet with the API sponsors at the hackathon, particularly on Saturday morning
-* Communicate with the API sponsors via their [dedicated slack channel](https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0ODg2NDYyMjMtN2FmZDRiYWE5Yw)
+* Communicate with the API sponsors via their [dedicated slack channel](http://bit.ly/reactathon2017-slack)
 
 
 # OpenTable
@@ -128,7 +128,7 @@ http://netlify.com/docs
 - [Getting Started via the CLI](https://www.youtube.com/watch?v=vFtvhvgmgZE)
 
 ### Prizes
-Chromecast or Bluetooth Speakers
+$300 + Chromecast & Color-Changing Bluetooth Speakers
 
 ***
 

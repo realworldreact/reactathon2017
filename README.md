@@ -23,7 +23,7 @@ Review the APIs in the `apis.md` file in this repo.
 Here you'll find lists of APIs with links to docs, tutorials, and a video overview
 
 ## Join the Reactathon Slack Group
-Sign up here https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0ODg2NDYyMjMtN2FmZDRiYWE5Yw
+Sign up here http://bit.ly/reactathon2017-slack
 ##### More info:
 * You can ask API sponsors questions directly in their respective channel, i.e. `api_opentable`
 * View API introductions (30 secs) and demos (<5 mins) in their respective channels

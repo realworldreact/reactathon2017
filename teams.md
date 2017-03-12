@@ -1,6 +1,6 @@
 # Hackathon Teams
 
-STYLE GUIDE:  
+STYLE GUIDE:
 ```
 # Team name
 ### Less than 160 Characters describing what we're building. Include external links here if desired
@@ -18,12 +18,28 @@ STYLE GUIDE:
 
 ***
 
+# TeamNoSleep
+### We're a team that will make something awesome.
+* **Teammates**:Blake Wills (@baw25), John Kim (@soctkoren), Hyungjoon Kim (@Nubstick27), Julian Knodt (@julianknodt)
+* **Seeking Teammates**: We're set!
+* [GitHub URL] (https://github.com/Baw25/TeamNoSleepReactathon2017) 
+
+***
+
+# Raging Octopus
+### Building seamless voice integration on top of the OpenTable API.
+* **Teammates**: Andrew Lee (@alee), Cyril Yu (@cyril), Jeff Christian (@15chrjef), Sherman Chen (@shermanc), Steve Zhou (@stevezhou)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/ragingoctopus/reactathon-ot)
+
+***
 
 # WillCode4Food
 ### We're a team that will do whatever it takes to feed us and we're building something cool.
-* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari) 
+
+* **Teammates**: Bryan Nguyen (@bryancnguyen), Bryan Garcia (@bryang), Nicole Zhou (@nicolezhou), Andrew Cordivari (@andrew_cordivari), Edmund Dao (@nimda), Eric Oliveira (@clapinton)
 * **Seeking Teammates**: Absolutely yes!
-* [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food) 
+* [GitHub URL] (https://github.com/Bryancnguyen/WillCode4Food)
 
 ***
 
@@ -35,6 +51,13 @@ STYLE GUIDE:
 
 ***
 
+# iReact
+### Keep calm and React
+* **Teammates**: David Lopez-White (@davidlopezwhite), Vadim Dermanovskiy (@noodly), Trevor Scandalios (@scandalios), Howard Co (@hco), Joanne Xin (@joannexin), Jun Xiang (@junxiang), Sean Chen (@chenmeister)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/DavidLopezWhite/iReact)
+
+***
 
 # React Bootie
 ### Whatever it is, it has to live up to its name.
@@ -50,7 +73,70 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/rezn5447/FOODr3k)
 
-*** 
+***
+
+# OpenChair
+### We'll help you find an open chair!
+* Teammates: Kai (@kai), Chan (@ChanTheManCan), Cindy (@cindy0092), Samuel (@SamuelHe83), Forest (@), Efe (@)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/open-chair/openChair)
+
+
+# Allergic Reaction
+### Is there a cream for this?
+* ** Teammates**: Bill Cheng (@billcheng), Chris Messer (@messerino), Kevin (@kevinferron), Jamison (@jamison.hyman)
+* Seeking Teammates: Yes
+* [GitHub URL](https://github.com/billcheng-ucla/allergic-reaction)
+
+***
+
+# nobs
+### Süding : Social Fooding, aka friend & event centric fooding.
+* Teammates: Anthony(@liuminosity), Alissa(@zeninspire)
+* Seeking Teammates: No
+* [Project URL](https://github.com/zeninspire/nobs)
+
+***
+
+# reView
+### The Digital Platform to Support and Coach Software Engineers in the interview process
+* Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev) chris bassano(@christo4b) Claudiu Andrei(@claudiuandrei) David Papp (@davidpapp)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/arturoromeroslc/review)
+
+***
+
+# Al Dente
+### SocialTable - Let's get together
+* Teammates: Teo Antonac (@simple), Ales Fakin (@faqini)
+* Seeking Teammates: No
+* [Project URL](https://github.com/TeoA/rwr-hackathon)
+
+***
+
+# PackChat Team
+### PackChat connects parents to their collective of caregivers to instantly solve every day crises that occur in real time.
+* Teammates: David Rothschild (@drothschild), Jose Vazquez (@zezemanolo), Elle A (@Elleyes), Sylvan Swierkosz (@nodatall),  Angela Alarcon (@angelaamongstrangers), Jason Emberley (@jason00111)
+* Seeking Teammates: No
+* [Github URL](https://github.com/nodatall/packChat)
+
+***
+
+# Deploy React App
+### Create and deploy a boilerplate React app with continuous deployment setup in less than a minute!
+* **Teammates**: Sam Samskies (@samsamskies)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/SamSamskies/deploy-react-app)
+
+***
+
+# USafe?
+### Do you live alone? Or do you often say "Text me when you are home"? Then USafe? is for you.
+* **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
+* **Seeking Teammates**: Yes
+* [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+***
 
 # ChatBite
 ### A service which provides restaurants to easily create a Facebook Messenger chatbot for their Facebook Page and allows customers to book reservations through the chatbot using OpenTable API.
@@ -60,4 +146,3 @@ STYLE GUIDE:
 * [Web URL](https://chatbite.herokuapp.com)
 
 *** 
-
