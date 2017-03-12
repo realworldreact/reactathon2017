@@ -213,8 +213,8 @@ STYLE GUIDE:
 
 ***
 
-# foodRX
-### Bringing OpenTable to the little guy
+# WebChef
+### Easy way to build websites for restaurant owners using OpenTable
 * **Teammates**: Louie (@louisrowan), Kim (@kimstephenson), Kei(@keioka), George (@georgebabayan), Kelvin (@klvngnn)
 * **Seeking Teammates**: No
 * [Project URL](https://github.com/louisrowan/ReactathonClient)
