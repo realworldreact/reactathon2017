@@ -147,8 +147,18 @@ STYLE GUIDE:
 
 ***
 
+# Meow Technologies
+### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
+* **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/rg-galieva/yumyum)
+
+***
+
 # Team GHKA
 ### Dynamic discounts for restaurants depending on occupancy.
 * **Teammates**: Geoff (@geoff), Hilary (@hilz), Karine (@trekare), Abdul (@afr114), Theo (@tdr)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/afr114/reactathon2017)
+
+***
