@@ -147,8 +147,17 @@ STYLE GUIDE:
 
 ***
 
+# AInvest
+### A socially conscious investment platform powered by AI. 
+* **Teammates**: Jie Wei (@jie), Conor Carey (@ccarey), Ryan Luginbuhl (@rdlreact), Elina Lin (@elina), Gregory Barcza (@greg), Jonathan Schwob (@jonathanschwob)
+* **Seeking Teammates**: No
+* [Github URL](https://github.com/AInvest)
+
+***
+
 # Team GHKA
 ### Dynamic discounts for restaurants depending on occupancy.
 * **Teammates**: Geoff (@geoff), Hilary (@hilz), Karine (@trekare), Abdul (@afr114), Theo (@tdr)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/afr114/reactathon2017)
+
