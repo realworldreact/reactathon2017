@@ -57,7 +57,7 @@ STYLE GUIDE:
 * **Teammates**: Jacopo (@JacopoDaeli), Sue (@suemeetsue), Grant (@grant), Cam (@camdenb)
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/JacopoDaeli/chatbite)
-* [Web URL](https://chatbite.heroku.com)
+* [Web URL](https://chatbite.herokuapp.com)
 
 *** 
 
