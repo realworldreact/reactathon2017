@@ -147,6 +147,13 @@ STYLE GUIDE:
 
 ***
 
+# Simplify
+### A way to simplify your food wishes during a vacation
+* **Teammates**: Yaswanth jeganathan (@yaswanth360), Pradeep Keshary (@pkeshary),John (@johnjohn),ash (@ashcon),robert (@growthmindset)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/puntubabu/reacathon-2017)
+
+***
 
 # ChatBite
 ### A service which provides restaurants to easily create a Facebook Messenger chatbot for their Facebook Page and allows customers to book reservations through the chatbot using OpenTable API.
