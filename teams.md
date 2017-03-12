@@ -161,6 +161,7 @@ STYLE GUIDE:
 
 ***
 
+
 # Bill Splitters 
 ### Two clicks, pay, and on your way!! 
 
@@ -195,7 +196,7 @@ STYLE GUIDE:
 
 # Ronin Dev
 ### We are creating an app to make messaging even more personal and organic.
-* **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
+* **Teammates**: Sonny Tosco (@sonnyt), Philip Vo (@spock), Elliot Young (@elliotsyoung), George Miranda (@georgem)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/FunkyGeorge/reactathonserver)
 
@@ -290,3 +291,4 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/sfcodecamp/reserve.io)
 
 ***
+
