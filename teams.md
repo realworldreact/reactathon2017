@@ -1,5 +1,7 @@
 # Hackathon Teams
 
+### Create a PR and tag `@BerkeleyTrue` in the comments of that PR.
+
 STYLE GUIDE:
 ```
 # Team name
@@ -81,6 +83,7 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/open-chair/openChair)
 
+***
 
 # Allergic Reaction
 ### Is there a cream for this?
