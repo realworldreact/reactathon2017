@@ -243,4 +243,12 @@ STYLE GUIDE:
 * **Seeking Teammates**: No
 * [Github URL](https://github.com/AInvest)
 
+# corner-team
+### Rotten tomatoes for openTable (we are the hardmen of software!!!). 
+* **Teammates**: Captain Andy (@captainAndy001), Jawad Bangash (@jawadban), Ibraheem Abdul-Malik (@ibraheem4) , Naveen (@naveenshankar)
+* **Seeking Teammates**: PLEASE!!!!
+* [Github URL](https://github.com/caseysiebel/corner-team)
+
+
+
 ***
