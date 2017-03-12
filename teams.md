@@ -257,14 +257,6 @@ STYLE GUIDE:
 
 ***
 
-# corner-team
-### Rotten tomatoes for openTable (we are the hardmen of software!!!). 
-* **Teammates**: Captain Andy (@captainAndy001), Jawad Bangash (@jawadban), Ibraheem Abdul-Malik (@ibraheem4) , Naveen (@naveenshankar)
-* **Seeking Teammates**: PLEASE!!!!
-* [Github URL](https://github.com/caseysiebel/corner-team)
-
-***
-
 #Goldmine
 ### Scraping the world's data one company at a time.
 * **Teammates**: Michael Chen(@MikeTYChen), Tom Chen (@senluchen2015), Stephen Chan (@s-chan)
@@ -280,4 +272,12 @@ STYLE GUIDE:
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/sfcodecamp/reserve.io)
 
+***
+
+# Team name
+### A way for people to find each other at Hackathons :)
+* Teammates: anieto, isayd
+* Seeking Teammates: No
+* [Github URL](https://github.com/abrahamnieto/reactathon2017)
+ 
 ***
