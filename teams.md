@@ -292,3 +292,10 @@ STYLE GUIDE:
 
 ***
 
+# Anamik
+### A way for people to find each other at Hackathons :)
+* Teammates: anieto, isayd
+* Seeking Teammates: No
+* [Project URL](https://github.com/
+
+***
