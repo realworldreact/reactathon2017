@@ -1,5 +1,7 @@
 # Hackathon Teams
 
+### Create a PR and tag `@BerkeleyTrue` in the comments of that PR.
+
 STYLE GUIDE:
 ```
 # Team name
@@ -81,6 +83,7 @@ STYLE GUIDE:
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/open-chair/openChair)
 
+***
 
 # Allergic Reaction
 ### Is there a cream for this?
@@ -147,11 +150,58 @@ STYLE GUIDE:
 
 ***
 
-# AInvest
-### A socially conscious investment platform powered by AI. 
-* **Teammates**: Jie Wei (@jie), Conor Carey (@ccarey), Ryan Luginbuhl (@rdlreact), Elina Lin (@elina), Gregory Barcza (@greg), Jonathan Schwob (@jonathanschwob)
+# Addon 
+### Working on it. 
+* **Teammates**: Ariana (@ari_rodriguez), Lorraine (@lchan912), Diana (@diana), Diego (@diegocaceres), Joseph (@joe_stowers)
 * **Seeking Teammates**: No
-* [Github URL](https://github.com/AInvest)
+* [GitHub URL](https://github.com/Reactathon2017)
+
+***
+
+# fitness App!
+### logs user's fitness stats ie distance, calories etc and the same for their friends so people can be competative.
+* **Teammates**: Jawad Bangash (@Jawadban)
+
+***
+
+# Simplify
+### A way to simplify your food wishes during a vacation
+* **Teammates**: Yaswanth jeganathan (@yaswanth360), Pradeep Keshary (@pkeshary),John (@johnjohn),ash (@ashcon),robert (@growthmindset)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/puntubabu/reacathon-2017)
+
+***
+
+# ChatBite
+### A service which provides restaurants to easily create a Facebook Messenger chatbot for their Facebook Page and allows customers to book reservations through the chatbot using OpenTable API.
+* **Teammates**: Jacopo (@JacopoDaeli), Sue (@suemeetsue), Grant (@grant), Cam (@camdenb)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/JacopoDaeli/chatbite)
+* [Web URL](https://chatbite.herokuapp.com)
+
+*** 
+
+# Ronin Dev
+### We are creating an app to make messaging even more personal and organic.
+* **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/FunkyGeorge/reactathonserver)
+
+***
+
+# NannyNow
+### Connecting caregivers to babies. 
+* **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/starbucks-hackers/assist-now)
+
+***
+
+# Meow Technologies
+### Never eat lunch alone.  With YumYum, meeting up for lunch has never been easier.
+* **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/rg-galieva/yumyum)
 
 ***
 
@@ -161,3 +211,36 @@ STYLE GUIDE:
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/afr114/reactathon2017)
 
+***
+
+# WebChef
+### Easy way to build websites for restaurant owners using OpenTable
+* **Teammates**: Louie (@louisrowan), Kim (@kimstephenson), Kei(@keioka), George (@georgebabayan), Kelvin (@klvngnn)
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/louisrowan/ReactathonClient)
+
+***
+
+# TripTunes
+### TripTunes uses your roadtrip to build a Spotify playlist of songs that mention cities along your route
+* Teammates: Jahlela Hasle (@jahlela), Alex Rattray (@rattrayalex), Razzi Abuissa (@razzi), John Rossberg (@rossi)
+* Seeking Teammates: No
+* [Project URL](https://github.com/jahlela/triptunes)
+
+*** 
+
+# MASV (Massive)
+### SurpriseAssist - your assistant to make surprise reservations!
+* **Teammates**: Mike(@mrap), Anuar(@anuar), Smitha(@smitha92), Vasu(@accessvasu)
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/Reactathon2017-Masv)
+
+***
+
+# AInvest
+### A socially conscious investment platform powered by AI. 
+* **Teammates**: Jie Wei (@jie), Conor Carey (@ccarey), Ryan Luginbuhl (@rdlreact), Elina Lin (@elina), Gregory Barcza (@greg), Jonathan Schwob (@jonathanschwob)
+* **Seeking Teammates**: No
+* [Github URL](https://github.com/AInvest)
+
+***
