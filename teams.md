@@ -135,3 +135,8 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+# fitness App!
+### logs user's fitness stats ie distance, calories etc and the same for their friends so people can be competative.
+* **Teammates**: Jawad Bangash (@Jawadban)
+
