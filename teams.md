@@ -201,3 +201,11 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/afr114/reactathon2017)
 
 ***
+
+# foodRX
+### Bringing OpenTable to the little guy
+* **Teammates**: Louie (@louisrowan), Kim (@kimstephenson), Kei(@keioka), George (@georgebabayan), Kelvin (@klvngnn)
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/louisrowan/ReactathonClient)
+
+***
