@@ -100,7 +100,7 @@ STYLE GUIDE:
 
 # reView
 ### The Digital Platform to Support and Coach Software Engineers in the interview process
-* Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev) chris bassano(@chrisbassano) Claudiu Andrei(@claudiuandrei)
+* Teammates: Arturo Romero (@arturo) JR Meunrath (@jmslcdev) chris bassano(@chrisbassano) Claudiu Andrei(@claudiuandrei) David Papp (@davidpapp)
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/arturoromeroslc/review)
 
