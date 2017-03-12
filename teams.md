@@ -131,7 +131,8 @@ STYLE GUIDE:
 ***
 
 # Blind Table
-### For the adventurous and hungry, find interesting people to try new food. 
+### For the adventurous and hungry, find interesting people to try new food.
 * **Teammates**: Daniel Chang (@DanielLChang), David Hu (@davidhu2000), Edwin La (@laed37), Elif Sezgin (@elifsezgin), Raymond Lee (@rlee0525)
 * **Seeking Teammates**: No
-* [GitHub URL](https://github.com/davidhu2000/BlindTable_FE)
+* [Frontend GitHub URL](https://github.com/davidhu2000/BlindTable_FE)
+* [Backend GitHub URL](https://github.com/davidhu2000/BlindTable_BE)
