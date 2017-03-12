@@ -12,6 +12,15 @@ STYLE GUIDE:
 
 *** (be sure to include these three stars at the bottom for a horizontal rule)
 ```
+***
+
+# The Style Guide Exemplifiers
+### We're a team that exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the bottom of the list!
+* **Teammates**: Benjamin Dunphy (@ben), Berkeley Martinez (@berkeley)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/your-profile/your-project-name)
+
+***
 
 # TeamNoSleep
 ### We're a team that will make something awesome.
