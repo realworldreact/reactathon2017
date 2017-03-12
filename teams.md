@@ -147,6 +147,14 @@ STYLE GUIDE:
 
 ***
 
+# Ronin Dev
+### We are creating an app to make messaging even more personal and organic.
+* **Teammates**: Sonny Tosco, Philip Vo, Elliot Young, George Miranda
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/FunkyGeorge/reactathonserver)
+
+***
+
 # NannyNow
 ### Connecting caregivers to babies. 
 * **Teammates**: Hieu Nguyen (@hieung02), Wesley Huang (@wesleyhuang23), Henry Qi (@henrysqi), Brian Muse (@musebc)
@@ -170,4 +178,3 @@ STYLE GUIDE:
 * [GitHub URL](https://github.com/afr114/reactathon2017)
 
 ***
-
