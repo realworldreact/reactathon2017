@@ -23,7 +23,7 @@ Review the APIs in the `apis.md` file in this repo.
 Here you'll find lists of APIs with links to docs, tutorials, and a video overview
 
 ## Join the Reactathon Slack Group
-Sign up here https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0ODg2NDYyMjMtN2FmZDRiYWE5Yw
+Sign up here http://bit.ly/reactathon2017-slack
 ##### More info:
 * You can ask API sponsors questions directly in their respective channel, i.e. `api_opentable`
 * View API introductions (30 secs) and demos (<5 mins) in their respective channels
@@ -37,6 +37,7 @@ Sign up here https://reactathon2017.slack.com/shared_invite/MTQ5MDc5ODc5MzkzLTE0
 1. List your team in the `teams.md` file in this repo
 2. Fork the repo and make a PR to list your team
 3. Follow the style guide for listing your team
+4. Tag `BerkeleyTrue` in your PR.
 
 #### If you don't have a team
 1. Browse teams in the `teams.md` file of this repo
