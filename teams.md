@@ -111,6 +111,7 @@ STYLE GUIDE:
 ### PackChat connects parents to their collective of caregivers to instantly solve every day crises that occur in real time.
 * Teammates: David Rothschild (@drothschild), Jose Vazquez (@zezemanolo), Elle A (@Elleyes), Sylvan Swierkosz (@nodatall),  Angela Alarcon (@angelaamongstrangers), Jason Emberley (@jason00111)
 * Seeking Teammates: No
-* [Github URL](https://github.com/nodatall/packChat)
+* [Github URL (frontend)](https://github.com/nodatall/packChat)
+* [Github URL (backend)](https://github.com/nodatall/packChat_api)
 
 ***
