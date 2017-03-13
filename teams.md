@@ -231,7 +231,9 @@ STYLE GUIDE:
 ### Easy way to build websites for restaurant owners using OpenTable
 * **Teammates**: Louie (@louisrowan), Kim (@kimstephenson), Kei(@keioka), George (@georgebabayan), Kelvin (@klvngnn)
 * **Seeking Teammates**: No
-* [Project URL](https://github.com/louisrowan/ReactathonClient)
+* [Project URL](http://webchef.netlify.com/)
+* [GitHub FrontEnd](https://github.com/louisrowan/ReactathonClient)
+* [GitHub BackEnd](https://github.com/klvngnn/opentable-serverless)
 
 ***
 
