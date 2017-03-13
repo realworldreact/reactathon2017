@@ -215,8 +215,9 @@ STYLE GUIDE:
 ### Never eat lunch alone.  With OpenSeat, meeting up for lunch has never been easier.
 * **Teammates**: Regina Galieva (@rg.galieva), Elvyn Mejia (@elvynmejia), Preston Phelan (@preston_phelan), Cesar Verastegui (@zes)
 * **Seeking Teammates**: No
-* [GitHub URL](https://github.com/rg-galieva/yumyum)
-
+* [Netlify URL](https://openseat.netlify.com/)
+* [Frontend GitHub URL](https://github.com/rg-galieva/openseat)
+* [Backend GitHub URL](https://github.com/elvynmejia/yumyum.io)
 ***
 
 # Team GHKA
