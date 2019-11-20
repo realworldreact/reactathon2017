@@ -33,17 +33,14 @@ Functionalities exposed by token(Please refer documentation for details)
 6. Get Reservation
 7. Promotions and offers
 
-Visit [this](https://platform.otqa.com/documentation/secure) link with the following credentials
-````
-PP Client ID / User Id : cpa_5069
-PP Secret / Password: aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz
-`````
+Visit [this](https://platform.otqa.com/documentation/secure) link with a set of valid client credentials
+
 Documentation [here](https://platform.otqa.com/documentation/secure)
 
 Step 1: Get an access token:
 
 ````
-curl --user cpa_5069:aMrmcXH4BuUlLIyN6paPhseSlrzMh6Lz -X POST https://oauth-pp.opentable.com/api/v2/oauth/token?grant_type=client_credentials
+curl --user client_id:client_secret -X POST https://oauth-pp.opentable.com/api/v2/oauth/token?grant_type=client_credentials
 ````
 
 Step 2: Access the API. This example gets availability for restaurant with id - 334879
